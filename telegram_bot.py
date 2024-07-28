@@ -2,7 +2,7 @@ from telebot import TeleBot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import requests
 
-TOKEN = "7443728344:AAEJy7JJn0bRxlzn8pQFX7M4S3aPQABBVkY"
+TOKEN = "Your_Token"
 CRYPTO_NAME_TO_TICKER = {
     "Bitcoin": "BTCUSDT",
     "Ethereum": "ETHUSDT",
